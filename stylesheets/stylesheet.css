@@ -57,7 +57,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #cccccc;
-  background-image: url("/panorama.png"); }
+  background-image: url("https://fifa-server.github.io/Website/panorama.png"); }
 
 @media screen and (min-width: 64em) {
   .page-header {
