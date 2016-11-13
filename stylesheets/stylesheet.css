@@ -57,7 +57,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #cccccc;
-  background-image: url("images/panorama.png"); }
+  background-image: url("/panorama.png"); }
 
 @media screen and (min-width: 64em) {
   .page-header {
