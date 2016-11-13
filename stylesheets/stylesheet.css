@@ -57,7 +57,12 @@ a {
   color: #fff;
   text-align: center;
   background-color: #cccccc;
-  background-image: url("https://fifa-server.github.io/Website/panorama.png"); }
+  background-image: url("https://fifa-server.github.io/Website/panorama.png") no-repeat top center; 
+  width: 100%; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -90,7 +95,7 @@ a {
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: bold;
-  opacity: 0.8; }
+  opacity: 0.9; }
 
 @media screen and (min-width: 64em) {
   .project-tagline {
