@@ -1,2 +1,4 @@
-# Website
-The home website for FIFA ClassiCube football server.
+# CCFA Website
+he home website for ClassiCube Football Association. 
+Visit us at http://dev.ccfa.tk
+
