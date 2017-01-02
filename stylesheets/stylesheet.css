@@ -57,7 +57,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #cccccc;
-  background-image: url("https://fifa-server.github.io/Website/panorama.png"); 
+  background-image: url("/panorama.png"); 
   background-size: cover; 
   background-position: 50%, 50%; }
   
