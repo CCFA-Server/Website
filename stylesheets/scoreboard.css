@@ -2,3 +2,7 @@ body {
   text-align: center;
   font-family: 'Open Sans';
 }
+
+h3 {
+  font-size: 40px;
+}
