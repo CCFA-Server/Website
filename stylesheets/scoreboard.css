@@ -3,10 +3,6 @@ body {
   font-family: 'Open Sans';
 }
 
-h3 {
-  font-size: 40px;
-}
-
 ul.topnav {
     list-style-type: none;
     width: 100%;
@@ -16,7 +12,6 @@ ul.topnav {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-}
 }
 
 ul.topnav li {
